@@ -1,0 +1,74 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+.navbar-nav{
+  margin-left: 800px;
+  font-size: 20px;
+  
+}
+.navbar-brand{
+  font-size: 35px;
+  color: rgb(10, 131, 245)!important;
+}
+
+.btn-get-started{
+  text-decoration: none;
+  border: 2px solid rgb(10, 131, 245);
+  border-radius: 50px;
+  padding: 15px;
+  margin-top : 35px !important; 
+
+}
+
+.image img{
+  width: 800px;
+  height: 400px;
+}
+.heading{
+  margin-top: 250px;
+}
+
+.heading h1 strong{
+  color:rgb(10, 131, 245) ;
+}
+
+.btn{
+  margin-top: 25px;
+
+}
+#header .btn-get-started:hover{
+  background:rgb(142, 195, 245) ;
+}
+
+.nav-item:hover{
+  border-bottom: 2px solid rgb(10, 131, 245);
+  
+}
+
+.card img{
+   width: 310px;
+   height: 200px;
+}
+
+.aboutPara{
+  width: 800px;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+.footer{
+  padding: 40px;
+  margin-top: 60px;
+  background-color:rgb(136, 193, 247) ;
+  
+}
+
+.link{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+ .linkTag {
+  text-decoration: none;
+  color: black;
+}
